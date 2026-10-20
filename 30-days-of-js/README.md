@@ -3,3 +3,4 @@
 * New things learned:
     - day 1: html syntx (it's pretty intuitive ngl), js uses automatic semicolon inserstion (ASI)
     - day 3: ternary operators (?, :); windows methods that create window pop ups for alerts, prompts, and confirmations; === checks both value and type
+    - day 13: console methods only manipulate output in the browser console
