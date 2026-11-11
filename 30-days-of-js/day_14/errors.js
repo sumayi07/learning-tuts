@@ -10,6 +10,7 @@ try {
   console.log('In any case I will be executed')
 }
 
+// this one only works on browser console
 // const throwErrorExampleFun = () => {
 
 //   let x = prompt('Enter a number: ')
